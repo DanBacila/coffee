@@ -1,0 +1,3 @@
+A new vendor for the coffee shop
+Second vendor, location, phone number
+Third vendor, location new, phone number
